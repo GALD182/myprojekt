@@ -24,7 +24,7 @@ html {
 }
 
 p {
-  color: rgb(201, 14, 14);
+  color: rgb(85, 85, 85);
 }
 
 /* TRANSITION */
@@ -197,7 +197,6 @@ section {
   height: 400px;
   width: 400px;
   margin: auto 0;
- 
 }
 
 .section__text {
